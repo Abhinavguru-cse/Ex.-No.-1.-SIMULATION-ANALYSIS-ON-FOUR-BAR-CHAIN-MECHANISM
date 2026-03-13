@@ -29,13 +29,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
 ## INPUT:
-
-
-
-
+<img width="1008" height="521" alt="Screenshot 2026-03-13 105502" src="https://github.com/user-attachments/assets/256c6583-7162-4de1-a22d-0c3bf6510e1f" />
 
 
 ## Output:
+<img width="1148" height="967" alt="Screenshot 2026-03-13 105454" src="https://github.com/user-attachments/assets/e3c085fa-a6aa-432d-974c-4d95fca5fbd5" />
 
 
 ### Name:ABHINAV GURU R
